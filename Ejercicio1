@@ -1,0 +1,36 @@
+public class Ejercicio1 {
+
+    //A)
+    int p;
+    int q;
+    //B)
+    float x;
+    float y;
+    float z;
+    //C)
+    String a;
+    String b;
+    String c;
+    //D)
+    double raiz1;
+    double raiz2;
+    //E)
+    long contador;
+    //F)
+    short indicador;
+    //G)
+    int indice;
+    //H)
+    double precio;
+    double preciofinal;
+    //I)
+    String car1;
+    String car2;
+    //J)
+    byte valor;
+    //K)
+    boolean primero;
+    boolean ultimo;
+    //L)
+    String nombre;
+}
