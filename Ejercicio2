@@ -1,0 +1,47 @@
+/*Escribe la declaración más apropiada para cada una de las siguientes variables. El nombre de cada una
+indica el tipo de dato que contendrá y servirá para determinar el tipo de dato más adecuado en la
+declaración de la variable.*/
+
+public class Ejercicio2 {
+    //a) edad 
+    int edad;    
+    //b) códigoPostal 
+    char codigoPostal;
+    //c) altura 
+    short altura;
+    //d) genero (valores: H: hombre, M: mujer)
+    boolean genero;
+    //e) nombre 
+    String nombre;
+    //f) númeroDeHijos
+    short numeroDeHijos;
+    //g) iva (valores: % a aplicar) 
+    short iva;
+    //h) tallaCamisa (valores numéricos)
+    short tallacamisa;
+    //i) peso 
+    int peso;
+    //j) precio
+    int precio;
+    //k) alumnoRepetidor (valores: SI/NO) 
+    boolean alumnoRepetidor;
+    //l) mensaje
+    String mensaje;
+    //m) letra 
+    char letra;
+    //n) mayorEdad
+    int mayorEdad;
+    //o) minutos 
+    int minutos
+    //p) días
+    char dias;
+    //q) matriculaCoche 
+    String matriculaCoche;
+    //r) contador
+    int contador;
+    //s) mayorDeEdad (valores: verdadero/falso) 
+    boolean mayorDeEdad;
+    //t) tallaCamiseta (valores: S, L, XL...)
+    Char tallaCamiseta;
+}
+
