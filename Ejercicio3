@@ -1,0 +1,59 @@
+public class Ejercicio3 {
+    /*3. Convierte en expresiones algorítmicas con Java las siguientes expresiones algebraicas. Coloca
+paréntesis solamente donde sean necesarios.*/
+    public static void main(String[] args) {
+        
+    
+    //a)
+    float cuenta1 = (3/4f) + (4/3f);
+    System.out.println(cuenta1);
+    //b)
+    float x = 10;
+    float y = 6;
+    float cuenta2 = (1/(x - 5) + (3*x*y/4f));
+    System.out.println(cuenta2);
+    //c)
+    float cuenta3 = (1/2f) + 7;
+    System.out.println(cuenta3);
+    //d)
+    float cuenta4 = 7 + (1/2f);
+    System.out.println(cuenta4);
+    //e)
+    float a = 4;
+    float b = 1;
+    float c = 21;
+    float d = 15;
+    float e = 5;
+    float f = 1;
+    float g = 7;
+    float h = 6;
+    float j = 11;
+    float cuenta5 = (a*a/(b - c)) + ((d - e)/(f - ((g*h)/j)));
+    System.out.println(cuenta5);
+    //f)
+    float m = 14;
+    float n = 12;
+    float p = 4;
+    float cuenta6 = (m/n) + p;
+    System.out.println(cuenta6);
+    //g)
+    float q = 20;
+    float cuenta7 = m + (n / (p - q));
+    System.out.println(cuenta7);
+    //h)
+    float cuenta8 = ((a*a)/(b*b)) + ((c*c)/(d*d));
+    System.out.println(cuenta8);
+    //i)
+    float r = 2;
+    float s = 13;
+    float cuenta9 = (m + (n/p))/(q - (r/s));
+    System.out.println(cuenta9);
+    //j)
+    float cuenta10 = ((3*a) + b) / c - ((d + (5 * e))/f + (g/(2 * h)));
+    System.out.println(cuenta10);
+    //k)
+    float cuenta11 = ((a*a) + (2 * a * b) * (b*b)/(1/(x*x)) + 2);
+    System.out.println(cuenta11);
+    }
+
+}
