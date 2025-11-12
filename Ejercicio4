@@ -1,0 +1,56 @@
+public class Ejercicio4 {
+    /*Escribe un programa Java que realice lo siguiente: declarar dos variables x e y de tipo int, dos variables
+    n y m de tipo double y asigna a cada una un valor. A continuación muestra por pantalla:
+    */
+    public static void main(String[] args) {
+        
+    
+    int x = 5;
+    int y = 10;
+    double n = 20d;
+    double m = 14d;
+
+    //A)
+    System.out.println(x);
+    System.out.println(y);
+    System.out.println(n);
+    System.out.println(m);
+
+    //B)
+    System.out.println(x + y);
+    //C)
+    System.out.println(x - y);
+    //D)
+    System.out.println(x * y);
+    //E)
+    System.out.println(x/y);
+    //F)
+    System.out.println(x % y);
+    //G)
+    System.out.println(n + m);
+    //H)
+    System.out.println(n - m);
+    //I)
+    System.out.println(n * m);
+    //J)
+    System.out.println(n / m);
+    //K)
+    System.out.println(n % m);
+    //L)
+    System.out.println(x + n);
+    //M)
+    System.out.println(y / m);
+    //N)
+    System.out.println(y % m);
+    //O)
+    System.out.println(2 * x);
+    System.out.println(2 * y);
+    System.out.println(2 * n);
+    System.out.println(2 * m);
+    //P)
+    System.out.println(x + y + m + n);
+    //Q)
+    System.out.println(x * y * m * n);
+}
+
+}
